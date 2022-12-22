@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shabas23
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Big Data Analytics & Data Science
+- 🌱 currently pursuing  Big Data Analytics & Data Science
 
 
 <!---

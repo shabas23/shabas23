@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shabas23
-- 👀 I’m interested in coding
-- 🌱 currently pursuing  Big Data Analytics & Data Science
+- 👀 Data Science Intern @ Luminar Technolab
+- 🌱
 
 
 <!---

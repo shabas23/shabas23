@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shabas23
-- 👀 Data Science Intern @ Luminar Technolab
+- 👀 Business Intelligence Analyst
 - 🌱
 
 
